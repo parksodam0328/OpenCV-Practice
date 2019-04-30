@@ -1,1 +1,1 @@
-"# OpenCV-Practice" 
+# OpenCV를 활용하여 이미지 유사도 측정 
