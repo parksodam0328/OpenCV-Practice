@@ -1,6 +1,6 @@
 # OpenCV를 활용하여 이미지 유사도 측정 <br>
 
-비주얼 스튜디오 2017버전 .NET Framework, Version 4.0
+비주얼 스튜디오 2017 / .NET Framework, Version 4.0
 #### step 1) 프로젝트 생성 후 프로젝트 우클릭
 
 <img src="https://user-images.githubusercontent.com/26541410/56937615-8e39bd00-6b38-11e9-892c-551335735e95.png" width="300" height="280">
